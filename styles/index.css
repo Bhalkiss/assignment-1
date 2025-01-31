@@ -1,0 +1,38 @@
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius:75px;
+    border: solid rgb(223, 132, 132) 1px;
+    display: inline-block;
+}
+#biography
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cont{
+    display: inline;
+    width: 83%;
+    font-size: 18px;
+    float: right;
+
+}
+.container{
+    display: inline-block;
+}
+.profile{
+    display: inline-block;
+}
+
+#goal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+li{
+    font-size: 18px;
+}
+p{
+    font-size: 18px;
+}
